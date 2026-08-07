@@ -1,0 +1,1 @@
+# STALKER_TAP_Automation
