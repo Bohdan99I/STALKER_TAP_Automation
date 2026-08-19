@@ -26,7 +26,7 @@
 
 1. Скопіюйте код із файла:
 
-[start_tap] (https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/start_tap.js)
+[start_tap](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/start_tap.js)
 
  Цей скрипт враховує ідентифікатор елемента `#anomaly` та використовує `PointerEvent` для імітації реальних дотиків, додаючи рандомізований інтервал, що знижує ризик детектування автоклікера.
 
@@ -34,7 +34,7 @@
 
 Ось оновлений код, який реалізує цю логіку. Скопіюйте код із файла:
 
-[start_tap_mutant] (https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/start_tap_mutant.js)
+[start_tap_mutant](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/start_tap_mutant.js)
 
 
 3. Вставте код у консоль і натисніть **Enter**.
@@ -47,7 +47,7 @@
 
 2. Програмна зупинка: Введіть у консолі код із файла 
 
-[start_stop] (https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/stop_tap.js)
+[start_stop](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/stop_tap.js)
 
 
 і натисніть Enter.
