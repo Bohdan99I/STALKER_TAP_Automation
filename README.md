@@ -26,18 +26,16 @@
 
 1. Скопіюйте код із файла:
 
-```bash
-start_tap.js
-```
+[start_tap] (https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/start_tap.js)
+
  Цей скрипт враховує ідентифікатор елемента `#anomaly` та використовує `PointerEvent` для імітації реальних дотиків, додаючи рандомізований інтервал, що знижує ризик детектування автоклікера.
 
 2. Запуск "Розумного" скрипта (Аномалія + Мутант), відтворює класичний кейс перевірки динамічної зміни станів у DOM-дереві. Це дає можливість відпрацювання спочатку пріоритет на мутанта, фолбек, а потім знову аномалія. 
 
 Ось оновлений код, який реалізує цю логіку. Скопіюйте код із файла:
 
-```bash
-start_tap_mutant.js
-```
+[start_tap_mutant] (https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/start_tap_mutant.js)
+
 
 3. Вставте код у консоль і натисніть **Enter**.
 
@@ -49,8 +47,7 @@ start_tap_mutant.js
 
 2. Програмна зупинка: Введіть у консолі код із файла 
 
-```bash
-start_stop.js
-```
+[start_stop] (https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/stop_tap.js)
+
 
 і натисніть Enter.
