@@ -34,7 +34,7 @@
 
 Ось оновлений код, який реалізує цю логіку. Скопіюйте код із файла:
 
-[start_tap_mutant](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/start_tap_mutant.js)
+[start_tap_mutant](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/src/start_tap_mutant.js)
 
 
 3. Вставте код у консоль і натисніть **Enter**.
