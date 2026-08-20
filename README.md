@@ -47,7 +47,7 @@
 
 2. Програмна зупинка: Введіть у консолі код із файла 
 
-[start_stop](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/stop_tap.js)
+[start_stop](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/src/stop_tap.js)
 
 
 і натисніть Enter.
