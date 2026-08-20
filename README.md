@@ -26,7 +26,7 @@
 
 1. Скопіюйте код із файла:
 
-[start_tap](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/start_tap.js)
+[start_tap](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/src/start_tap.js)
 
  Цей скрипт враховує ідентифікатор елемента `#anomaly` та використовує `PointerEvent` для імітації реальних дотиків, додаючи рандомізований інтервал, що знижує ризик детектування автоклікера.
 
