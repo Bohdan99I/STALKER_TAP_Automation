@@ -49,5 +49,14 @@
 
 [start_stop](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/src/stop_tap.js)
 
-
 і натисніть Enter.
+
+### 👨‍💻 Автор
+
+Bohdan Voitov
+
+Створено як розважальний проект.
+
+### 📄 Ліцензія
+
+Цей проект створено в розважальних цілях і є вільним для використання.
