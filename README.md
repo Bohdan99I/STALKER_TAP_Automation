@@ -24,17 +24,13 @@
 
 #### 3. Запуск скрипта
 
-1. Скопіюйте код із файла:
-
-[start_tap](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/src/start_tap.js)
+1. Скопіюйте код із файла:    [start_tap](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/src/start_tap.js)
 
  Цей скрипт враховує ідентифікатор елемента `#anomaly` та використовує `PointerEvent` для імітації реальних дотиків, додаючи рандомізований інтервал, що знижує ризик детектування автоклікера.
 
 2. Запуск "Розумного" скрипта (Аномалія + Мутант), відтворює класичний кейс перевірки динамічної зміни станів у DOM-дереві. Це дає можливість відпрацювання спочатку пріоритет на мутанта, фолбек, а потім знову аномалія. 
 
-Ось оновлений код, який реалізує цю логіку. Скопіюйте код із файла:
-
-[start_tap_mutant](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/src/start_tap_mutant.js)
+Ось оновлений код, який реалізує цю логіку. Скопіюйте код із файла:    [start_tap_mutant](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/src/start_tap_mutant.js)
 
 3. Вставте код у консоль і натисніть **Enter**.
 
@@ -43,10 +39,7 @@
 Щоб зупинити відправку запитів на сервер після вичерпання ліміту енергії, виконайте одну з наступних дій:
 
 1. Перезавантаження фрейму: Натисніть праву кнопку миші на верхній панелі гри та виберіть Reload (або закрийте та знову відкрийте гру).
-2. Програмна зупинка: Введіть у консолі код із файла 
-
-[start_stop](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/src/stop_tap.js)
-
+2. Програмна зупинка: Введіть у консолі код із файла:  [start_stop](https://github.com/Bohdan99I/STALKER_TAP_Automation/blob/main/src/stop_tap.js)
 і натисніть Enter.
 
 #### 👨‍💻 Автор
