@@ -33,5 +33,5 @@ function autoClick() {
     window.tapTimer = setTimeout(autoClick, randomDelay);
 }
 
-// Первинний запуск процесу
+// Запуск процесу
 autoClick();
